@@ -1,4 +1,4 @@
-package com.pattern.designpattern.creational.FactoryMethodPattern
+package com.pattern.designpattern.creational.factoryMethodPattern
 
 interface Transport {
     fun deliver() : String
